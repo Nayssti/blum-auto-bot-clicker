@@ -1,1 +1,1 @@
-# shiny-fishstick
+# blum-auto-bot-clicker
